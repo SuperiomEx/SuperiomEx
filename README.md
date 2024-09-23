@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SuperiomEx
 - 👀 I’m interested in being a FullStackDev
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on a project
+- 🌱 I’m currently learning Javascript , ( backend guy )
+- 💞️ I’m looking to collaborate on a project , make a game or something
 - 📫 How to reach me https://wa.me/5363145190
 - 😄 Pronouns: He
-- ⚡ Fun fact: Html it's my favorite programing language 
+- ⚡ Fun fact: Html it's my favorite programing language xD
 
 <!---
 SuperiomEx/SuperiomEx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

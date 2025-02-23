@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuperiomEx
 - 👀 I’m interested in being a FullStackDev
-- 🌱 I’m currently learning Javascript , ( backend guy )
+- 🌱 I’m currently learning NestJs , ( backend guy )
 - 💞️ I’m looking to collaborate on a project , make a game or something
 - 📫 How to reach me https://wa.me/5363145190
 - 😄 Pronouns: He

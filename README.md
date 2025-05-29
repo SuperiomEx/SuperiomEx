@@ -1,10 +1,7 @@
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/web_developer.svg" alt="Web Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/balazser/undraw-svg-collection/main/svgs/web_developer.svg" alt="Web Developer Banner" width="100%" />
 </p>
-
-
-
 ---
 
 <h1 align="center">🎯 Anthoan de Jesús Línea Pérez</h1>
@@ -66,7 +63,8 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/collaboration.svg" alt="Team Collaboration Footer" width="80%" />
+  <img src="https://raw.githubusercontent.com/balazser/undraw-svg-collection/main/svgs/collaboration.svg" alt="Team Collaboration Footer" width="80%" />
 </p>
+
 
 

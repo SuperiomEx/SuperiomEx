@@ -1,7 +1,8 @@
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SuperiomEx/SuperiomEx/main/assets/banner.svg" alt="Banner — SuperiomEx" width="100%" />
+  <img src="https://raw.githubusercontent.com/undraw/undraw/master/svg/web_developer.svg" alt="Web Developer Banner" width="80%" />
 </p>
+
 
 ---
 
@@ -64,5 +65,6 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SuperiomEx/SuperiomEx/main/assets/footer.svg" alt="Footer — Let's build together!" width="100%" />
+  <img src="https://raw.githubusercontent.com/undraw/undraw/master/svg/collaboration.svg" alt="Collaboration Footer" width="60%" />
 </p>
+

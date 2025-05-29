@@ -1,7 +1,8 @@
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/undraw/undraw/master/svg/web_developer.svg" alt="Web Developer Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/web_developer.svg" alt="Web Developer Banner" width="100%" />
 </p>
+
 
 
 ---
@@ -65,6 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/undraw/undraw/master/svg/collaboration.svg" alt="Collaboration Footer" width="60%" />
+  <img src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/collaboration.svg" alt="Team Collaboration Footer" width="80%" />
 </p>
+
 

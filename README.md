@@ -4,6 +4,7 @@
 </p>
 ---
 [![wakatime](https://wakatime.com/badge/user/f84e9c8b-9d1d-429b-ac18-f73def0409d2.svg)](https://wakatime.com/@f84e9c8b-9d1d-429b-ac18-f73def0409d2)
+
 <h1 align="center">🎯 Anthoan de Jesús Línea Pérez</h1>
 <p align="center">
   Ingeniería en Ciencias Informáticas | Full Stack Developer
@@ -40,7 +41,7 @@
 
 ---
 
-## 📈 Mis Estadísticas
+##                                                                       📈 Mis Estadísticas
 
 <p align="center">
   <a href="https://github.com/SuperiomEx">

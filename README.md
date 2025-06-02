@@ -3,12 +3,13 @@
   <img src="https://raw.githubusercontent.com/balazser/undraw-svg-collection/main/svgs/web_developer.svg" alt="Web Developer Banner" width="100%" />
 </p>
 
+
+
+
 [![wakatime](https://wakatime.com/badge/user/f84e9c8b-9d1d-429b-ac18-f73def0409d2.svg)](https://wakatime.com/@f84e9c8b-9d1d-429b-ac18-f73def0409d2)
-
 [![github](https://img.shields.io/github/followers/SuperiomEx?logo=github&style=plastic)](https://github.com/https://twitter.com/@superiomEx?tab=followers)
-
 [![twitter](https://img.shields.io/twitter/follow/Superionix?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/Superionix)
-
+[![wonderful.dev](https://img.shields.io/badge/wonderful.dev-@alan-ff00a7)](https://wonderful.dev/alan)
 
 <h1 align="center">🎯 Anthoan de Jesús Línea Pérez</h1>
 <p align="center">

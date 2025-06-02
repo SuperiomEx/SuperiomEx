@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/balazser/undraw-svg-collection/main/svgs/web_developer.svg" alt="Web Developer Banner" width="100%" />
 </p>
 ---
-[![wakatime](https://wakatime.com/badge/user/f84e9c8b-9d1d-429b-ac18-f73def0409d2.svg)](https://wakatime.com/@f84e9c8b-9d1d-429b-ac18-f73def0409d2)
+[![wakatime](https://wakatime.com/badge/user/f84e9c8b-9d1d-429b-ac18-f73def0409d2.svg)]
 
 <h1 align="center">🎯 Anthoan de Jesús Línea Pérez</h1>
 <p align="center">

@@ -1,15 +1,16 @@
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://undraw.co/illustration/web-developer_ggt0" alt="Web Developer Banner" width="100%" />
+  <img src="https://github.com/SuperiomEx/svg-for-projects/blob/main/undraw_website_27ju.svg" alt="Web Developer Banner" width="30%" />
 </p>
 
-
+<div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/f84e9c8b-9d1d-429b-ac18-f73def0409d2.svg)](https://wakatime.com/@f84e9c8b-9d1d-429b-ac18-f73def0409d2)
-[![github](https://img.shields.io/github/followers/SuperiomEx?logo=github&style=plastic)](https://github.com/https://twitter.com/@superiomEx?tab=followers)
-[![twitter](https://img.shields.io/twitter/follow/Superionix?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/Superionix)
+[![GitHub followers](https://img.shields.io/github/followers/SuperiomEx?logo=github&style=plastic)](https://github.com/SuperiomEx)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Superionix?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/Superionix)
 [![wonderful.dev](https://img.shields.io/badge/wonderful.dev-@superiomex-ff00a7)](https://wonderful.dev/SuperiomEx)
 
+</div>
 
 <h1 align="center">🎯 Anthoan de Jesús Línea Pérez</h1>
 <p align="center">

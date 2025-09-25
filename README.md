@@ -1,8 +1,7 @@
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/balazser/undraw-svg-collection/main/svgs/web_developer.svg" alt="Web Developer Banner" width="100%" />
+  <img src="https://undraw.co/illustration/web-developer_ggt0" alt="Web Developer Banner" width="100%" />
 </p>
-
 
 
 

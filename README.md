@@ -50,15 +50,7 @@
 
 ##                                                                       📈 Mis Estadísticas
 
-<p align="center">
-  <a href="https://github.com/SuperiomEx">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SuperiomEx&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SuperiomEx">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperiomEx&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[SuperiomEx/SuperiomEx]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 ---
 

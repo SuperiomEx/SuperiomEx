@@ -50,7 +50,7 @@
 
 ##                                                                       📈 Mis Estadísticas
 
-[![Superiom Stadisticas](https://github-readme-stats.vercel.app/api?username=SuperiomEx)](https://github.com/SuperiomEx/Readme)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuperiomEx&theme=synthwave&hide_border=true&border_radius=50&locale=es&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 

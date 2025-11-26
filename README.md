@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anthoan%20de%20Jesús&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20en%20Ciencias%20Informáticas%20|%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=220&section=header&text=Anthoan%20de%20Jesús&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20en%20Ciencias%20Informáticas%20|%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
 
-  <a href="https://wakatime.com/@f84e9c8b-9d1d-429b-ac18-f73def0409d2">
-    <img src="https://img.shields.io/badge/WakaTime-Check_Stats-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="wakatime"/>
-  </a>
   <a href="https://linkedin.com/in/SuperiomEx">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -16,16 +13,17 @@
   <a href="https://superiomex.dev">
     <img src="https://img.shields.io/badge/Website-Portfolio-FF00A7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
+  <a href="mailto:superdev920@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
 
 <br />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Backend+Specialist+%7C+NestJS;Frontend+Optimizado+%7C+Astro;Amante+de+la+IA+y+Neuroplasticidad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+NestJS+Specialist;Frontend+Performance+%7C+Astro" alt="Typing SVG" />
 </h3>
-
----
 
 ### 👨‍💻 Sobre mí
 
@@ -33,7 +31,7 @@
 
 ¡Hola! Soy un apasionado por la arquitectura de software escalable. Mi enfoque principal es construir **APIs robustas** y sistemas backend eficientes, aunque no descuido la experiencia de usuario en el frontend.
 
-- 🔭 **Actualmente:** Desarrollando una arquitectura de microservicios para E-commerce con **NestJS** y **MongoDB**.
+- 🔭 **Actualmente:** Desarrollando una Aplicacion para Gestionar Inventarios.
 - ⚡ **Frontend:** Creo interfaces ultrarrápidas y SEO-friendly usando **Astro**.
 - 🧠 **Learning:** Profundizando en **Dockerización avanzada** y patrones de diseño.
 - 🎯 **Meta 2025:** Convertirme en Tech Lead Backend y contribuir al Open Source.

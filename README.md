@@ -50,7 +50,7 @@
 
 ##                                                                       📈 Mis Estadísticas
 
-![Mis Stats](./stats.svg)
+[![Superiom Stadisticas](https://github-readme-stats.vercel.app/api?username=SuperiomEx)](https://github.com/SuperiomEx/Readme)
 
 ---
 

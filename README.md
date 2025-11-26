@@ -13,9 +13,11 @@
   <a href="https://superiomex.dev">
     <img src="https://img.shields.io/badge/Website-Portfolio-FF00A7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
-  <a href="mailto:superdev920@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=superdev920@gmail.com&su=Hola%20Anthoan%20-%20Vengo%20de%20GitHub">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
+  
 
 </div>
 
@@ -31,7 +33,7 @@
 
 ¡Hola! Soy un apasionado por la arquitectura de software escalable. Mi enfoque principal es construir **APIs robustas** y sistemas backend eficientes, aunque no descuido la experiencia de usuario en el frontend.
 
-- 🔭 **Actualmente:** Desarrollando una Aplicacion para Gestionar Inventarios.
+- 🔭 **Actualmente:** Desarrollando una **Aplicación para Gestionar Inventarios**.
 - ⚡ **Frontend:** Creo interfaces ultrarrápidas y SEO-friendly usando **Astro**.
 - 🧠 **Learning:** Profundizando en **Dockerización avanzada** y patrones de diseño.
 - 🎯 **Meta 2025:** Convertirme en Tech Lead Backend y contribuir al Open Source.
@@ -54,12 +56,32 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SuperiomEx&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="80%" />
+<a href="https://wakatime.com/@f84e9c8b-9d1d-429b-ac18-f73def0409d2">
+  <img src="https://wakatime.com/badge/user/f84e9c8b-9d1d-429b-ac18-f73def0409d2.svg" alt="Total time coded since start" />
+</a>
 
 <br/><br/>
+
+<!-- <table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SuperiomEx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperiomEx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="Lenguajes" />
+    </td>
+  </tr>
+</table> -->
+
+<img src="https://streak-stats.demolab.com?user=SuperiomEx&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" width="80%" />
+
+<br/><br/>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=SuperiomEx&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos" />
 </a>
+
+<br/>
 
 </div>
 
@@ -81,7 +103,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Directo-25D366?style=flat&logo=whatsapp&logoColor=white" height="35" />
   </a>
   &nbsp;
-  <a href="mailto:superdev920@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=superdev920@gmail.com&su=Contacto%20desde%20GitHub">
     <img src="https://img.shields.io/badge/Email-Envíame%20un%20Correo-D14836?style=flat&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>

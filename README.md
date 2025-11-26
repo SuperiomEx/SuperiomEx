@@ -54,17 +54,6 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SuperiomEx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas Generales" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperiomEx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes Top" />
-    </td>
-  </tr>
-</table>
-
 <img src="https://streak-stats.demolab.com?user=SuperiomEx&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="80%" />
 
 <br/><br/>
@@ -92,7 +81,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Directo-25D366?style=flat&logo=whatsapp&logoColor=white" height="35" />
   </a>
   &nbsp;
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:superdev920@gmail.com">
     <img src="https://img.shields.io/badge/Email-Envíame%20un%20Correo-D14836?style=flat&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>

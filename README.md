@@ -73,13 +73,10 @@
   </tr>
 </table> 
 
-<img src="https://streak-stats.demolab.com?user=SuperiomEx&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" width="80%" />
+![GitHub Streak](https://streak-stats.demolab.com?user=SuperiomEx&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)
 
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuperiomEx&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos" />
-</a>
+---
+![GitHub Trophies](https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/example.png)
 
 <br/>
 

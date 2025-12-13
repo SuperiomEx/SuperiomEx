@@ -62,7 +62,7 @@
 
 <br/><br/>
 
-<!-- <table>
+ <table>
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=SuperiomEx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="Stats" />
@@ -71,7 +71,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperiomEx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="Lenguajes" />
     </td>
   </tr>
-</table> -->
+</table> 
 
 <img src="https://streak-stats.demolab.com?user=SuperiomEx&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" width="80%" />
 

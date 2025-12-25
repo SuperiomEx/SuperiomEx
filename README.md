@@ -19,6 +19,8 @@
 
   [![committers.top badge](https://user-badge.committers.top/cuba_public/SuperiomEx.svg)](https://user-badge.committers.top/cuba_public/SuperiomEx)
 
+  [![committers.top badge](https://org-badge.committers.top/cuba_public/digital-revolution-cuba.svg)](https://org-badge.committers.top/cuba_public/digital-revolution-cuba)
+
 </div>
 
 <br />
